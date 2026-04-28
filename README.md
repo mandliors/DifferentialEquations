@@ -4,5 +4,11 @@ A lightweight C++ visualizer built with Raylib that renders interactive slope fi
 
 # Screenshots
 
+Euler: red
+Runge-Kutta: green
+
+Euler and Runge-Kutta both quite accurate here
 ![Close](screenshots/close.png)
+
+Euler is very inaccurate compared to Runge-Kutta
 ![Far](screenshots/far.png)
